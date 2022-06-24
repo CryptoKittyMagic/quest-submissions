@@ -1,6 +1,6 @@
 # quest-submissions
 
-#chapter 1 day 1
+# chapter 1 day 1
 
 Q1.  Explain what the Blockchain is in your own words. 
 blockchain is a database that stores infomation, it is not ownd by anyone and anybody can view it and interact with it.
