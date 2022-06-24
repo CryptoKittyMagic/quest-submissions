@@ -13,4 +13,4 @@ A smart contract is a set of rules that is stored within a blockchain.
 
 Q3.   Explain the difference between a script and a transaction.
 
-A script reads the blockchain, a transaction modifies the blockchain, scrips are free transactions are not.
+A scripts reads the blockchain, a transaction modifies the blockchain, scrips are free transactions are not.
